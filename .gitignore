@@ -5,3 +5,4 @@
 /src/OAuthWebSample/Web.Release.config
 /src/OAuthWebSample/Web.Debug.config
 /src/OAuthWebSample/Web.config
+/.vs
